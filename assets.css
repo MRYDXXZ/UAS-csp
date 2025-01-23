@@ -1,0 +1,23 @@
+/* background navbar */
+.custom-navbar {  
+    background-color: #682daf;   
+    color: rgb(192, 105, 105); 
+}  
+/* background login*/
+.custom-login-btn {  
+    background-color: #0056b3;  
+    color: white; 
+    border: none;  
+}  
+.custom-login-btn:hover {  
+    background-color: #4a0031;  
+}  
+/* fonts navbar */
+.custom-navbar-brand {  
+    font-size: 5rem; 
+    font-weight: bolder;   
+}  
+
+
+
+  
